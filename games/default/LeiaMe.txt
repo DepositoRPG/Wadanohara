@@ -1,0 +1,86 @@
+﻿+-----------------------------------------------------------------------------------------------+
+
+ 
+ Wadanohara e o Grande Mar Azul ver 1.03 Manual de Instruções
+ 
+ 
++-----------------------------------------------------------------------------------------------+
+
+ [Título] Wadanohara e o Grande Mar Azul
+ [Produção] Deep-Sea Prisoner
+ [Site] http://okegom.web.fc2.com/
+ [Contato] okegom@yahoo.co.jp
+ [Ferramenta] RPG Maker 2000 VALUE!
+ [Português] Zero Corpse (Mei)
+ [Site em Português] http://zero-corpse.blogspot.com/wadanohara
+ 
++-----------------------------------------------------------------------------------------------+
+ 
+ 
+ [Summary]
+ 
+  Este é um jogo grátis. Execute "Iniciar em Modo Janela" para começar numa janela, ou "Iniciar em Tela Cheia" para jogar em tela cheia.
+  As batalhas não são bem difíceis, o foco fica na história.
+  
+ 
+ 
+ [Movimentos Básicos]
+ 
+  Confirmar: tecla Z
+  Cancelar: tecla X
+  Abrir o menu: tecla X
+  Andar/Selecionar: Setinhas
+  Voltar ao Título: F12
+ 
+ 
+ 
+ [Avisos]
+ 
+  - O autor não se responsabiliza por qualquer problema trazido pelo jogo.
+    Você concorda de ter a própria responsabilidade.
+  - A cópia e redistribuição inadevida dos materiais e dados é proíbido.
+  - Há violência explícida no jogo, então esteja ciente.
+ 
+ 
+ 
+ [Agradecimentos Especiais]
+ 
+  Agradeço as fontes abaixo pela música, efeitos sonoros, e scripts.
+  Direitos autorais vão aos devidos criadores.
+ 
+  Amor Kana  http://amorkana.jp/
+  *CAMeLIA*  http://agnello-pecora.chu.jp/CAMeLIA/index.html 
+  Cnoc  http://cnoc.web.fc2.com/
+  Hagall  http://hagall.hacca.jp/
+  On-Jin http://www.yen-soft.com/ssse/
+  Senses Circuit  http://www.senses-circuit.com/
+  Music Egg http://ontama-m.com/index.html
+  Maou Damashii http://maoudamashii.jokersounds.com/
+  Free BGM/Sound Effects MusMus http://musmus.main.jp/
+ 
+ 
+ 
+ [O incluso BONUS.zip]
+ 
+  Ele leva até a página bônus de ilustrações e quadrinhos para quem finalizou o jogo.
+  A senha para extrair está escrita em uma anotação na Sala Bônus depois do final.
+ 
+ 
+ 
++-----------------------------------------------------------------------------------------------+
+ 
+ [Atualizações]
+   12/21/2013...ver 1.00 Lançamento
+   01/20/2014...ver 1.01 Correção de erros e bugs.
+   03/18/2014...ver 1.02 Correção de erros e outros.
+   04/04/2014...ver 1.03 Correção de erros e bugs.
+ 
++-----------------------------------------------------------------------------------------------+
+
+[Observações da Tradução]
+
+Alguns nomes de itens como "escudos doce" não estão errado porque eu optei por deixar assim, já que não é escudo com sabor doce para ser doce, mas sim um escudo doce.
+
+Memoca, Dolphi, Chlomaki, Tarako(principalmente, talvez) e alguns outros personagens falam um pouco errado ou confuso. Por exemplo a Memoca fala uma hora "Pegam eles!", esse "erro" foi proposital. A Wadanohara no começo fala "mais errado", mas melhora um pouco depois da jornada.
+
+Hífens, muitas palavras eu optei por tirar. Um dos motivos disso foi para dar uma certa ideia de informal ou não falando direito. Também optei por ser um "nome", assim como algumas vezes eu deixo o nome em inglês de certos lugares ou personagens. Mesmo personagens mais sérios falam "bem vindos" em vez de "bem-vindos".
